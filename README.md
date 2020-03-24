@@ -20,16 +20,16 @@ John Kueh
 
 ### Work experience
 
-#### Zibbet (Jan 2019 - Mar 2020)
+#### Zibbet (Contract): Jan 2019 - Mar 2020
 - Senior software engineer
 - Test-driven development (RSpec)
 - Detailed PR reviews
 
-#### Beaconmaker / Freelance (Nov 2014 - Jan 2019)
+#### Beaconmaker (Freelance): Nov 2014 - Jan 2019
 - Senior software engineer
 - Mentored engineers and designers (React, React Native and Ruby on Rails)
 
-#### Pollenizer (2012-2013)
+#### Pollenizer: 2012-2013
 - Technical product manager
 - Conducting customer interviews, working with designers and devs to build MVPs
 - Instrument MVP with analytics
